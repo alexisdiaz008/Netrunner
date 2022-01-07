@@ -1,5 +1,5 @@
 class LastWord
   def self.length(string)
-    # write your method here
+    # your code here
   end
 end

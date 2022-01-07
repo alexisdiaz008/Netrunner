@@ -8,7 +8,7 @@ In a world where corporations can scan the human mind and interface it directly 
 
 ## Description
 
-Netrunners is a social deduction game, much like The Resistance,∂∂ with secret identities.
+Netrunners is a social deduction game, much like The Resistance, a game with secret identities.
 Players are either Netrunners attempting to compromise corrupt corporations, or corpo spies trying to thwart the Netrunners.
 
 ## Object of the Game
@@ -79,12 +79,12 @@ After the mission has been completed, mark the mission success or mission fail f
 ### Secret Missions
 
 On the 2nd, 4th, and 5th missions opportunities for secret missions are taken. When taken, the players assembled for the previous mission team make an attempt at solving a randomly selected problem (2nd and 4th missions being easy problems, 5th being a hard problem)
-The runners are given a max of 8 minutes to complete the problems. 
+The runners are given a max of 5 minutes to complete the easy problems, and 15 for hard problems. 
 
 Upon completion a temporary leader is randomly chosen from the Mission Team, and that leader selects a new team, with, or without discussion from the rest of the team, to then send on a secret mission.
 If any member on the secret mission is a spy, the mission automatically fails, but does not count against the runners.
 
-If the problem is failed and the 8 minutes expired, nothing happens and continue to the next Round.
+If the problem is failed and the time expired, nothing happens and continue to the next Round.
 
 ### End of the game
 
