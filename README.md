@@ -8,8 +8,18 @@ In a world where corporations can scan the human mind and interface it directly 
 
 ## Description
 
-Netrunners is a social deduction game, much like The Resistance,∂∂ with secret identities.
+Netrunners is a social deduction game, much like The Resistance, with secret identities.
 Players are either Netrunners attempting to compromise corrupt corporations, or corpo spies trying to thwart the Netrunners.
+
+## Game Summary
+<pre>
+<li>Assign Non-participant host</li>
+<li>Assign Roles</li>
+<li>Assign Leader</li>
+<li>Build Mission Team</li>
+<li>Conduct Mission</li>
+<li>Secret Mission if applicable</li>
+</pre>
 
 ## Object of the Game
 
@@ -30,9 +40,11 @@ Discussion, deception, intuition, social interaction and logical deductions are 
 
 Use the chart below to determine the number of Resistance Operatives and Spies that will be in the game.
 
-Players      5 6 7 8 9 10
-Resistance   3 4 4 5 6 6
-Spies        2 2 3 3 3 4
+<pre>
+Players        5 6 7 8 9 10
+Resistance     3 4 4 5 6 6 
+Spies          2 2 3 3 3 4 
+</pre>
 
 3) Randomly assign player roles, spies will be made aware of each others presence 
    (by way of a non participant-host)
@@ -51,12 +63,14 @@ The team building phase consists of the Leader picking the players that he would
 Mission Team Assignment: 
 After appropriate discussion, the Leader selects the Mission Team (using the chart below) Note a player may only be assigned to one Mission Team at a time.
 
+<pre>
 Players            5 6 7 8 9 10
 1st Mission Team   2 2 2 3 3 3
 2nd Mission Team   3 3 3 4 4 4
 3rd Mission Team   2 4 3 4 4 4
 4th Mission Team   3 3 4 5 5 5
 5th Mission Team   3 4 4 5 5 5
+</pre>
 
 Mission Team Vote:
 After appropriate discussion, the Leader calls for a vote on the team assignments. Each player, including the leader, secretly votes, sending these votes to the non-participant host.
