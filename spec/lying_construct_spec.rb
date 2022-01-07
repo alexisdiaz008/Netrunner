@@ -9,22 +9,19 @@ require 'lying_construct'
 # It says that the product of a and b
 # should be equal to the sum of all numbers in the sequence,
 # excluding a and b.
-# Given a number n, could you tell me the numbers he excluded from the sequence?
+# Given a number n, find the numbers it excluded from the sequence
 
 # The function takes the parameter: n (n is always strictly greater than 0) and returns an array
 
 # [[a, b], ...]
 
-# with all (a, b) which are the possible removed numbers in the sequence 1 to n.
+# within the (a, b) array are the possible removed numbers in the sequence 1 to n.
 
 # [[a, b], ...] will be sorted in increasing order of the "a".
 
-# It happens that there are several possible (a, b).
-
 # The function returns an empty array
-
-# if no possible numbers are found it proves that the
-# construct has told us the truth!
+# if no possible numbers are found.
+# This proves that the construct has told us the truth.
 
 # Examples:
 # remove_number(26) should return [[15, 21], [21, 15]]
