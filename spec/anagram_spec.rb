@@ -6,7 +6,7 @@ require 'anagram'
 # return true if the second word is an anagram of the first,
 # and false otherwise.
 
-# "We've got the access key's cypher, we just need to make sure it's valid."
+# "There's the key, now let's check if it's valid."
 
 describe Anagram do
   it 'checks if the second word is an anagram of the first' do

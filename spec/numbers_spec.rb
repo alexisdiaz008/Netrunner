@@ -6,7 +6,7 @@ require 'numbers'
 # The digits are stored in reverse order, and each of their nodes contains a single digit.
 # Add the two numbers and return the sum as a array in reverse order.
 
-# "Simple addition, they said. They never said how that data was stored though."
+# "Inputs and Outputs. Simple."
 
 describe Numbers do
   it 'converts and adds the reversed groups of numbers' do

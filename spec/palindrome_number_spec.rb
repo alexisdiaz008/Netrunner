@@ -1,12 +1,12 @@
 require 'rspec'
 require 'palindrome_number'
-# Easy
+# Easy - Medium
 
 # Given an integer, return true if the integer is a palindrome integer.
 # An integer is a palindrome when it reads the same backward as forward.
 # For example, 121 is a palindrome while 123 is not.
 
-# Challenge Mode: solve without turning into a string.
+# Challenge Mode: solve without turning into a string. (add total time for this)
 
 # "The answer is as simple as looking in a mirror, or at least the mathematical equivalent"
 
