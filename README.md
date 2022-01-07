@@ -1,6 +1,7 @@
 
 
-# Netrunners
+# 
+
 
 ## Background
 
@@ -12,14 +13,13 @@ Netrunners is a social deduction game, much like The Resistance, a game with sec
 Players are either Netrunners attempting to compromise corrupt corporations, or corpo spies trying to thwart the Netrunners.
 
 ## Game Summary
-<pre>
-<li>Assign Non-participant host</li>
-<li>Assign Roles</li>
-<li>Assign Leader</li>
-<li>Build Mission Team</li>
-<li>Conduct Mission</li>
-<li>Secret Mission if applicable</li>
-</pre>
+
+**<li>Assign Non-participant host</li>**
+**<li>Assign Roles</li>**
+**<li>Assign Leader</li>**
+**<li>Build Mission Team</li>**
+**<li>Conduct Mission</li>**
+**<li>Secret Mission if applicable</li>**
 
 ## Object of the Game
 
@@ -38,11 +38,11 @@ Discussion, deception, intuition, social interaction and logical deductions are 
 
 2) Randomly select a Leader;
 
-Use the chart below to determine the number of Resistance Operatives and Spies that will be in the game.
+Use the chart below to determine the number of Netrunners and Spies that will be in the game.
 
 <pre>
 Players        5 6 7 8 9 10
-Resistance     3 4 4 5 6 6 
+Netrunners     3 4 4 5 6 6 
 Spies          2 2 3 3 3 4 
 </pre>
 
@@ -103,4 +103,7 @@ If the problem is failed and the time expired, nothing happens and continue to t
 ### End of the game
 
 The game ends immediately after either three successful or three failed missions. The Runners wins if three missions are successful. The spies win if three missions fail.
-Notes: information in The Resistance comes at multiple levels. First are players' voting patterns, second are Mission results, and third are cues that you can discern from player interactions. Runner Operatives must use all the information at hand to root out the spy infestation.
+<br>
+<br>
+Notes: information in Netrunners comes at multiple levels.<br>
+First are players' voting patterns, second are Mission results, third Secret Mission results, and fourth are cues that you can discern from player interactions. Netrunners must use all the information at hand to root out the Corpo Spy infestation.
